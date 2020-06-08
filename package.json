@@ -1,0 +1,17 @@
+{
+  "name": "parcel-ts-react",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "author": "Brandon Roberts",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  }
+}
